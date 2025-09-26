@@ -1,7 +1,0 @@
-E:/A_ADS+OOP_code/OOP_code/assignment1/build/CMakeFiles/student_scores.dir
-E:/A_ADS+OOP_code/OOP_code/assignment1/build/CMakeFiles/edit_cache.dir
-E:/A_ADS+OOP_code/OOP_code/assignment1/build/CMakeFiles/rebuild_cache.dir
-E:/A_ADS+OOP_code/OOP_code/assignment1/build/CMakeFiles/list_install_components.dir
-E:/A_ADS+OOP_code/OOP_code/assignment1/build/CMakeFiles/install.dir
-E:/A_ADS+OOP_code/OOP_code/assignment1/build/CMakeFiles/install/local.dir
-E:/A_ADS+OOP_code/OOP_code/assignment1/build/CMakeFiles/install/strip.dir
