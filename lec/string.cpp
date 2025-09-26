@@ -36,11 +36,11 @@ int main() {
     //其余初始化方法
     
     char charArray[] = "C++ str example";
-    string str2 = charArray;    // 可以用字符数组来赋值
-    cout << "str2:" << str2 << endl;
+    string str2_ = charArray;    // 可以用字符数组来赋值
+    cout << "str2:" << str2_ << endl;
 
-    string str3(10,'A');        // 可以直接写(10,char)来初始一个长度为10全为char的字符数组
-    cout << "str3:" << str3 << "\n" << endl;
+    string str3_(10,'A');        // 可以直接写(10,char)来初始一个长度为10全为char的字符数组
+    cout << "str3:" << str3_ << "\n" << endl;
 
     // 一些其他的内容
 

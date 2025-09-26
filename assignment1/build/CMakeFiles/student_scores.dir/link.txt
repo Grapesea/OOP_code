@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\student_scores.dir/objects.a
+D:\minGW64\bin\ar.exe qc CMakeFiles\student_scores.dir/objects.a @CMakeFiles\student_scores.dir\objects1.rsp
+D:\minGW64\bin\c++.exe  -Wall -Wextra -Wpedantic -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\student_scores.dir/objects.a -Wl,--no-whole-archive -o student_scores.exe -Wl,--out-implib,libstudent_scores.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\student_scores.dir\linkLibs.rsp
