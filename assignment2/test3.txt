@@ -1,0 +1,6 @@
+no      name    Math    Physics Chemistry English
+1       Alice   85      90      88      -
+2       Bob     78      -       92      -
+3       Charlie 95      88      85      90
+4       David   -       82      89      87
+5       Emma    91      -       -       93
