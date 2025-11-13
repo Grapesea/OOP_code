@@ -1,0 +1,25 @@
+lobby
+east east_corridor
+west west_corridor
+up tower
+
+east_corridor
+west lobby
+north great_hall
+
+west_corridor
+east lobby
+down dungeon
+
+great_hall
+south east_corridor
+north throne_room
+
+tower
+down lobby
+
+dungeon
+up west_corridor
+
+throne_room
+south great_hall

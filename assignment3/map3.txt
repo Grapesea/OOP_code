@@ -1,0 +1,49 @@
+main_hall
+north corridor_a
+south corridor_b
+east room_1
+west room_2
+
+corridor_a
+south main_hall
+east room_3
+west room_4
+
+corridor_b
+north main_hall
+east room_5
+west room_6
+
+room_1
+west main_hall
+north room_3
+
+room_2
+east main_hall
+north room_4
+
+room_3
+west corridor_a
+south room_1
+up tower
+
+room_4
+east corridor_a
+south room_2
+
+room_5
+west corridor_b
+down basement
+
+room_6
+east corridor_b
+
+tower
+down room_3
+
+basement
+up room_5
+east hidden_chamber
+
+hidden_chamber
+west basement

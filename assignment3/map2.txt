@@ -1,0 +1,45 @@
+entrance
+north hallway
+east armory
+west library
+
+hallway
+south entrance
+north throne_room
+east guard_room
+
+armory
+west entrance
+north treasure_room
+
+library
+east entrance
+up tower_level1
+
+throne_room
+south hallway
+west queen_chamber
+
+guard_room
+west hallway
+down dungeon
+
+treasure_room
+south armory
+
+tower_level1
+down library
+up tower_level2
+
+queen_chamber
+east throne_room
+
+dungeon
+up guard_room
+north secret_passage
+
+tower_level2
+down tower_level1
+
+secret_passage
+south dungeon
